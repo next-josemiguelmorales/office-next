@@ -1,4 +1,7 @@
-# WorkAdventure Map Starter Kit
+# WorkAdventure BBVA NEXT OFFICEs Maps 
+
+Acces environment test is https://next-josemiguelmorales.github.io/office-next/.
+Enjoy!
 
 This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
 
