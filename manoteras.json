@@ -218,6 +218,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Comedor"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -236,6 +241,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Moria"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -254,6 +264,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Fangorn"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -289,7 +304,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/app.swile.com"
+                 "value":"https:\/\/sites.google.com\/bbva.com\/intranext\/Home"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
